@@ -1,2 +1,2 @@
 # rutas
-gestión de rutas utilizando una base de datos
+Gestión de un sistema de rutas. Utiliza PHP, JavaScript y MySQL. Todos con la sintaxis orientada a objetos.
